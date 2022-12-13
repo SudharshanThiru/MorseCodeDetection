@@ -19,23 +19,6 @@ predicting power based on machine learning's tree algorithms. This platform
 also allows the end user to learn morse code by encoding a message. In this 
 project, morse code is detected using image processing.
 
-INNOVATIVE PLAN
-
-The current systems and developed projects either have implemented
-the morse code detection from eye blinks for the purpose of helping LIS 
-(Locked-in Syndrome) or ALS (Amyotrophic Lateral Sclerosis) patients or 
-for the purpose of secret communication. We have brought the use of such a 
-communication for the purpose emergency situations where the victim is 
-incapable of conveying through words along with the implementation to 
-support patients who have difficulty in conveying messages to caretakers 
-through speech and signs.<br>
-Another feature is, this system can classify blinks as voluntary (long) and 
-involuntary (short) blinks since the camera module would be running in the 
-background. <br>
-We have overcome the problem that most of the earlier systems had in 
-common that the system fails to recognize the registered user when the 
-lighting and picture quality is poor.<br>
-Also, a user may not know or forget morse code, in which case, we have 
-provided a text to morse code convertor to ease the learning of the user.
-
-Refer Documentation for more details.
+Load the dataset:
+shape_predictor_68_face_landmarks.dat
+before running
